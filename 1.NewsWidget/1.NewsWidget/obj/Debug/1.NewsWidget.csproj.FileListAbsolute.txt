@@ -2,4 +2,3 @@ D:\Test\1.NewsWidget\1.NewsWidget\bin\1.NewsWidget.dll
 D:\Test\1.NewsWidget\1.NewsWidget\bin\1.NewsWidget.pdb
 D:\Test\1.NewsWidget\1.NewsWidget\obj\Debug\1.NewsWidget.dll
 D:\Test\1.NewsWidget\1.NewsWidget\obj\Debug\1.NewsWidget.pdb
-D:\Test\1.NewsWidget\1.NewsWidget\obj\Debug\1.NewsWidget.csprojResolveAssemblyReference.cache
