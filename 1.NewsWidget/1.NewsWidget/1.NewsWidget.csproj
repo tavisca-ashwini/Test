@@ -76,6 +76,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-2.1.4.js" />
     <Content Include="Scripts\jquery-2.1.4.min.js" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
     <Content Include="Widget.js" />
     <Content Include="Scripts\jquery-2.1.4.min.map" />
