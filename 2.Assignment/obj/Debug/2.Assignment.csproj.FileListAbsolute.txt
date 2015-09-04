@@ -1,0 +1,6 @@
+D:\Test\2.Assignment\bin\Debug\2.Assignment.exe.config
+D:\Test\2.Assignment\bin\Debug\2.Assignment.exe
+D:\Test\2.Assignment\bin\Debug\2.Assignment.pdb
+D:\Test\2.Assignment\obj\Debug\2.Assignment.csprojResolveAssemblyReference.cache
+D:\Test\2.Assignment\obj\Debug\2.Assignment.exe
+D:\Test\2.Assignment\obj\Debug\2.Assignment.pdb
