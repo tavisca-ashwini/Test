@@ -78,7 +78,6 @@
     <Content Include="Scripts\jquery-2.1.4.min.js" />
     <Content Include="Style.css" />
     <Content Include="Web.config" />
-    <Content Include="Widget.js" />
     <Content Include="Scripts\jquery-2.1.4.min.map" />
   </ItemGroup>
   <ItemGroup>
